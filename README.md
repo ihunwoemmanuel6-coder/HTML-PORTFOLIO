@@ -1,2 +1,2 @@
-# HTML-PORTFOLIO
+# html-portfolio
 My portfolio
